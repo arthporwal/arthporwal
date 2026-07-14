@@ -39,5 +39,3 @@ Cross-platform Flutter + Firebase app with chatbot-assisted counsellor-matching.
 - Cisco: Networking Essentials, Cyber Ops Associate, Cyber Security Essentials
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthporwal&show_icons=true&theme=default)
